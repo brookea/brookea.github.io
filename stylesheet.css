@@ -72,6 +72,15 @@ pre {
 
 a {
   background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+	color: white;
+}
+
+a:hover {
+	color: grey;
 }
 
 /**
