@@ -396,6 +396,14 @@ h1, h4, h2 {
 h3 {
 	padding-left: 50px;
 }
+ h3 a {
+ 	color: gray;
+ }
+
+h3 a:hover {
+	color:#7bfcd7; 
+
+}
 
 /*#posterImg {
   height: 100px;
