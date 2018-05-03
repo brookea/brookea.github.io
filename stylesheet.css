@@ -75,6 +75,10 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+color:#7bfcd7;
+}
+
 a:visited {
 	color: white;
 }
@@ -389,8 +393,10 @@ h1, h4, h2 {
   padding-left: 50px;
   font-weight: lighter;
   color: white;
+}
 
- 
+h3 {
+	padding-left: 50px;
 }
 
 /*#posterImg {
