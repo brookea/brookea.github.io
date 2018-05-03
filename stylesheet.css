@@ -79,9 +79,7 @@ a:visited {
 	color: white;
 }
 
-a:hover {
-	color: #adf7de;
-}
+
 
 
 /**
@@ -434,7 +432,6 @@ h1, h4 {
   left: 0; /* new */
   top: 0; /* new */
   position: absolute; /* new */
-  color:white;
 }
 
 
