@@ -426,3 +426,8 @@ h1, h4 {
   position: absolute; /* new */
   color:white;
 }
+
+.hero-inner a {
+	color: white;
+}
+
