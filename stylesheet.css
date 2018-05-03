@@ -80,7 +80,7 @@ a:visited {
 }
 
 a:hover {
-	color: grey;
+	color: #adf7de;
 }
 
 
@@ -437,7 +437,5 @@ h1, h4 {
   color:white;
 }
 
-.hero-inner a {
-	color: white;
-}
+
 
