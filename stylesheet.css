@@ -353,7 +353,7 @@ template {
   display: none;
 }
 
-.containerOne {
+.containerOne, .containerTwo {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -385,9 +385,10 @@ template {
 }*/
 
 
-h1, h4 {
+h1, h4, h2 {
   padding-left: 50px;
   font-weight: lighter;
+  color: white;
 
  
 }
